@@ -78,15 +78,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : ""
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : ""
   location         : "Netherlands, Maastricht"
   employer         : "Precedence BV"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "pat.vdleer@gmail.com"
   uri              : 
-  bitbucket        :
+  bitbucket        : "patvdleer"
   codepen          :
   dribbble         :
   flickr           :
@@ -97,14 +97,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "patvdleer"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/512238/pvdl"
-  steam            :
+  stackoverflow    : "512238/pvdl"
+  steam            : "Junke1990"
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
